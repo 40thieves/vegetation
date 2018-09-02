@@ -17,5 +17,9 @@
   "engines": {
     "node": "10.x"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:40thieves/vegetation.git"
+  },
   "license": "MIT"
 }
