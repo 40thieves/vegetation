@@ -1,0 +1,21 @@
+{
+  "name": "vegetation",
+  "description": "Mastodon RSS feeder",
+  "scripts": {
+    "main": "node index.js",
+    "seed": "node db/seed.js"
+  },
+  "dependencies": {
+    "got": "^9.1.0",
+    "rss-parser": "^3.4.3",
+    "sequelize": "^4.38.0",
+    "sqlite3": "^4.0.2",
+    "node-opml-parser": "^1.0.0",
+    "sequelize-cli": "^4.1.1",
+    "lodash": "^4.17.10"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "license": "MIT"
+}
