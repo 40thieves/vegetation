@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Feeds</title>
+    </head>
+    <body>
+        <outline type="rss" text="Adactio" title="Adactio" xmlUrl="http://adactio.com/journal/rss" htmlUrl="https://adactio.com/journal/"/>
+        <outline type="rss" text="Adactio: Links" title="Adactio: Links" xmlUrl="http://adactio.com/links/rss" htmlUrl="https://adactio.com/links/"/>
+        <outline type="rss" text="Anil Dash" title="Anil Dash" xmlUrl="http://feeds.dashes.com/AnilDash" htmlUrl="https://anildash.com/"/>
+        <outline type="rss" text="danah boyd | apophenia" title="danah boyd | apophenia" xmlUrl="http://www.zephoria.org/thoughts/feed" htmlUrl="http://www.zephoria.org/thoughts"/>
+        <outline type="rss" text="ImpactStory blog" title="ImpactStory blog" xmlUrl="http://blog.impactstory.org/feed/" htmlUrl="http://blog.impactstory.org"/>
+        <outline type="rss" text="Music For Programming" title="Music For Programming" xmlUrl="http://musicforprogramming.net/rss.php" htmlUrl="http://musicforprogramming.net/img/mfp.jpg"/>
+        <outline type="rss" text="Nick Harkaway's blog" title="Nick Harkaway's blog" xmlUrl="http://www.nickharkaway.com/feed/" htmlUrl="http://www.nickharkaway.com"/>
+        <outline type="rss" text="Research Remix" title="Research Remix" xmlUrl="https://researchremix.wordpress.com/feed/" htmlUrl="https://researchremix.wordpress.com"/>
+        <outline type="rss" text="Science in the Open" title="Science in the Open" xmlUrl="http://cameronneylon.net/feed/" htmlUrl="http://cameronneylon.net"/>
+        <outline type="rss" text="Waxy.org" title="Waxy.org" xmlUrl="https://waxy.org/feed/" htmlUrl="https://waxy.org"/>
+        <outline type="rss" text="What If?" title="What If?" xmlUrl="https://whatif.xkcd.com/feed.atom" htmlUrl="http://what-if.xkcd.com"/>
+        <outline type="rss" text="xkcd.com" title="xkcd.com" xmlUrl="https://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/"/>
+        <outline type="rss" text="Bruce Lawson's blog" title="Bruce Lawson's blog" xmlUrl="https://www.brucelawson.co.uk/feed/" htmlUrl="https://www.brucelawson.co.uk"/>
+        <outline type="rss" text="The Third Bit - Greg Wilson's blog" title="The Third Bit - Greg Wilson's blog" xmlUrl="http://third-bit.com/feed.xml" htmlUrl="http://third-bit.com/feed.xml"/>
+        <outline type="rss" text="Henrik Joreteg's Blog" title="Henrik Joreteg's Blog" xmlUrl="https://joreteg.com/rss.xml" htmlUrl="https://joreteg.com"/>
+        <outline type="rss" text="Lara Callender Hogan" title="Lara Callender Hogan" xmlUrl="http://larahogan.me/feed.xml" htmlUrl="http://larahogan.github.io/"/>
+    </body>
+</opml>
