@@ -6,13 +6,14 @@
     "seed": "node db/seed.js"
   },
   "dependencies": {
+    "dotenv": "^6.0.0",
     "got": "^9.1.0",
+    "lodash": "^4.17.10",
+    "node-opml-parser": "^1.0.0",
     "rss-parser": "^3.4.3",
     "sequelize": "^4.38.0",
-    "sqlite3": "^4.0.2",
-    "node-opml-parser": "^1.0.0",
     "sequelize-cli": "^4.1.1",
-    "lodash": "^4.17.10"
+    "sqlite3": "^4.0.2"
   },
   "engines": {
     "node": "10.x"
