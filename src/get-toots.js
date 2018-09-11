@@ -25,7 +25,7 @@ async function getTootsForFeed(feed) {
   feed
     .set('latest', getUuid(posts[0].uuid))
     .save()
-  
+
   return toots
 }
 
